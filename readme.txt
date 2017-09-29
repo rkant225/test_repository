@@ -1,3 +1,4 @@
 This is readme file
 I added this line in the update-readme branch.
-It's windy outside today.
+<<<<<<< HEAD
+It's cloudy outside today.
