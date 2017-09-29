@@ -1,3 +1,3 @@
 This is readme file
 I added this line in the update-readme branch.
-It's cloudy outside today.
+It's sunny outside today.
